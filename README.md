@@ -1,4 +1,4 @@
-# Hi there, I'm Tsegay! 👋
+# Hi there, I'm Tsegay!
 
 ## About Me
 AI & Data Engineering master's student with a strong background in backend development and intelligent systems. I specialize in building scalable data pipelines, databases, and microservices APIs,and AI-driven applications that turn complex data into actionable insights.
