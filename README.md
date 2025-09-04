@@ -23,7 +23,5 @@ AI & Data Engineering master's student with a strong background in backend devel
   - Secure and Intelligent Backend Systems for AI deployment
 ```
 ---
-> *"The future belongs to those who understand how to harness the power of intelligent systems."*
----
 
 
