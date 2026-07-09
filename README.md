@@ -1,20 +1,16 @@
-# Hi there, I'm Tsegay!
+# Summary
 
-## About Me
-AI & Data Engineering master's student with a strong background in backend development and intelligent systems. I specialize in building scalable data pipelines, databases, and microservices APIs,and AI-driven applications that turn complex data into actionable insights.
+Backend Software Engineer | MSc AI & Data Engineering | Building scalable data pipelines, microservices, and AI-driven application.
 ## Technical Skills
-- **Programming Languages:** Python, Java, Dart, SQL
+- **Programming Languages:** Python, Java, Dart, C, C++
 - **AI/ML Systems:** LLM Integration, CNN, Vector Embeddings, AI Agents, RAG Systems
 - **Data Engineering:** ETL Pipelines, Apache Spark/Hadoop, Airflow,Time-Series Data Management
 - **Backend Development:** Microservices, REST APIs, Database Design, Cloud Architecture
 - **Databases:** MongoDB, MySQL, Neo4j, Redis, Vector Databases
-## Current Focus
+## Focus
 ```yaml
-🔬 Thesis Research:
-  - Edge AI Computing for Grape Leaf Disease Detection
-  
 🤖 AI/ML:
-  - CNN, LLM & RAG Systems for agricultural solutions
+  - Edge AI Computing, CNN, LLM & RAG Systems for agricultural solutions
   
 📊 Data Engineering:
   - Scalable Databases for Time-Series Environmental Data
